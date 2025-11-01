@@ -1,3 +1,14 @@
 # t440sonomahackinosh
 
-Running Sonoma with as 2013 late 13 inch, iirc updated from Monterey to Ventura (can be skipped) to Sonoma. Change wifi for versions. Use OCLP.
+## Overview
+Running Sonoma on a 2013 late 13 inch MacBook.
+
+## Upgrade Path
+If I recall correctly, the upgrade path was:
+- Monterey
+- Ventura (can be skipped)
+- Sonoma
+
+## Notes
+- Change wifi for different versions
+- Use OCLP (OpenCore Legacy Patcher)
