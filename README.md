@@ -1,2 +1,3 @@
 # t440sonomahackinosh
-this is my t440 sonoma mackintosh
+
+Running Sonoma with as 2013 late 13 inch, iirc updated from Monterey to Ventura (can be skipped) to Sonoma. Change wifi for versions. Use OCLP.
